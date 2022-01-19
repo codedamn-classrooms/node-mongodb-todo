@@ -8,7 +8,4 @@ Additionally, a CRUD model was created to enable conversation between the fronte
 
 The pictures below depict the final working example:
 
-<div style="display:flex-center; flex-direction: row; justify-content: space-evenly;">
-  <img src="frontend.png"></img>
-  <img src="database.png"></img>
-</div>
+<img src="frontend.png" width="425" height="400" hspace="2cm"/> <img src="database.png" width="500" height="400"/> 
