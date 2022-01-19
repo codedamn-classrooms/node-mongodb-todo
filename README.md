@@ -8,4 +8,4 @@ Additionally, a CRUD model was created to enable conversation between the fronte
 
 The pictures below depict the final working example:
 
-<img src="frontend_todo.png" width="425" height="400" hspace="1cm"/> <img src="database.png" width="500" height="400"/> 
+<img src="frontend_todo.png" width="375" height="400" hspace="1cm"/> <img src="database.png" width="400" height="400"/> 
